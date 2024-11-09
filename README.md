@@ -1,4 +1,4 @@
-## SQL Painting Project
+# SQL Painting Project
 
 ## Database and Tools
 - Oracle
