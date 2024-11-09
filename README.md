@@ -1,1 +1,1 @@
-### SQL Painting Project
+## SQL Painting Project
